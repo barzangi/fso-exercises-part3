@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+  "name": "Tim Berners-Lee",
+  "number": "13-43-627401"
+}
